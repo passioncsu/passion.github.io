@@ -1,2 +1,0 @@
-# passion.github.io
-hugo
